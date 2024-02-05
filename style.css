@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.home{
+    background-color: bisque;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+
+    color: rgb(255, 115, 0);
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.heading{
+    height: 4rem;
+    width: 10rem;
+    background-color: rgb(201, 50, 50);
+    color: Black;
+    margin: 2rem;
+    text-align: center;
+    line-height: 4rem;
+
+}
+.first{
+
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+
+}
+.img1{
+    height: 450px;
+    width: 450px;
+}
+p{
+    font-size: 40px;
+    letter-spacing: 2px;
+    line-height: 4rem;
+}
+
+.second{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5rem;
+}
+.i2{
+    height: 450px;
+    width: 550px;
+}
